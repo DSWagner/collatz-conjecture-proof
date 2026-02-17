@@ -1,0 +1,15 @@
+build/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+proof_results.json
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.ninja
+.ninja_deps
+.ninja_log
